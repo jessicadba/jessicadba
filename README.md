@@ -1,8 +1,8 @@
 ## Olá! Seja bem vindo ao meu Hello World! 👋
 
 ## Sobre mim:
-Meu nome é Jessica Souza, tenho 34 anos, e sou Administradora de banco de dados Oracle no Centro de Análises de Sistemas Navais, organização militar da Marinha do Brasil.
-Estou em constante aprendizado, pois a tecnologia também está em constante desenvolvimento e sou apaixonada pela área de dados, a qual tenho o privilégio de atuar.
+Sou Jessica Souza, 34 anos, Administradora de Banco de Dados Oracle no Centro de Análises de Sistemas Navais, uma organização militar da Marinha do Brasil.
+Sou uma entusiasta da área de dados e me mantenho em constante aprendizado para acompanhar o desenvolvimento tecnológico.
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-souza-dacp-87970217b/)
