@@ -16,5 +16,6 @@ Sou Jessica Souza, 34 anos, Analista de Banco de Dados no Centro de Análises de
 - Curiosidade
 - Resolução de problemas
 
-## Hard skills
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+## Hard skills 
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![sql2](https://github.com/user-attachments/assets/d74eaed5-b167-466b-ae60-c0b8af1d53ef)  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
