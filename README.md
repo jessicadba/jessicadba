@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Jessica Souza, 35 anos, Atualmente atuo como Analista de Dados no Centro de Análises de Sistemas Navais (CASNAV), uma organização militar da Marinha do Brasil. Sou uma entusiasta da área de dados e me mantenho em constante aprendizado. Este espaço foi criado com esse propósito, pois a análise de dados é multidimensional e exige habilidades que abrangem lógica, criatividade e pensamento estratégico. Por isso, o aprendizado contínuo é essencial, pois ele ajuda a descobrir novas funcionalidades, otimizar o tempo de trabalho e melhorar a capacidade de contar histórias com dados.</p>
+<p align="left">Sou Jessica Souza, 35 anos, atuo como Analista de Dados no Centro de Análises de Sistemas Navais (CASNAV), uma organização militar da Marinha do Brasil. Sou uma entusiasta da área de dados e me mantenho em constante aprendizado. Este espaço foi criado com esse propósito, pois a análise de dados é multidimensional e exige habilidades que abrangem lógica, criatividade e pensamento estratégico. Por isso, o aprendizado contínuo é essencial, pois ele ajuda a descobrir novas funcionalidades, otimizar o tempo de trabalho e melhorar a capacidade de contar histórias com dados.</p>
 
 ###
 
