@@ -12,7 +12,7 @@ Sinta-se à vontade para explorar e acompanhar esta jornada de crescimento. Vamo
 
 ###
 
-<p align="left">- Adaptabilidade<br>- Colaboração<br>- Comunicação<br>- Curiosidade<br>- Resolução de problemas</p>
+<p align="left">- Pensamento analítico;<br>- Colaboração com diferentes equipes;<br>- Boa comunicação;<br>- Curiosidade para traduzir dados; e<br>- Organização e atenção aos detalhes</p>
 
 ###
 
