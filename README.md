@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Jessica Souza | Analytics Engineer</h1>
+<h1 align="center"> 👩🏽‍💻 Jessica Souza | Analytics Engineer</h1>
 
 <p align="center">
   Analista de Dados no Centro de Análises de Sistemas Navais (CASNAV) e apaixonada por transformar dados em decisões inteligentes.
